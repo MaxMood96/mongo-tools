@@ -7,7 +7,7 @@ require (
 	// this code fails. We should replace this with `golangci-lint` at some
 	// point.
 	github.com/3rf/mongo-lint v0.0.0-20140604191638-3550fdcf1f43
-	github.com/aws/aws-sdk-go v1.53.11
+	github.com/aws/aws-sdk-go v1.54.19
 	github.com/craiggwilson/goke v0.0.0-20240206162536-b1c58122d943
 	github.com/google/go-cmp v0.6.0
 	github.com/jessevdk/go-flags v1.5.0
