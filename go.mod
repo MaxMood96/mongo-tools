@@ -3,7 +3,7 @@ module github.com/mongodb/mongo-tools
 go 1.22
 
 require (
-	github.com/aws/aws-sdk-go v1.53.11
+	github.com/aws/aws-sdk-go v1.55.5
 	github.com/craiggwilson/goke v0.0.0-20240206162536-b1c58122d943
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/google/go-cmp v0.6.0
