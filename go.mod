@@ -7,7 +7,7 @@ require (
 	github.com/craiggwilson/goke v0.0.0-20240206162536-b1c58122d943
 	github.com/deckarep/golang-set/v2 v2.6.0
 	github.com/google/go-cmp v0.6.0
-	github.com/jessevdk/go-flags v1.5.0
+	github.com/jessevdk/go-flags v1.6.1
 	github.com/mitchellh/go-wordwrap v1.0.1
 	github.com/nsf/termbox-go v1.1.1
 	github.com/pkg/errors v0.9.1
